@@ -21,6 +21,18 @@ py pong.py
 python pong.py
 ```
 
+Please note if you have multiple Python's installed on your machine you may have to specify which one to use i.e 
+
+```
+py2 pong.py
+```
+
+### OR
+
+```
+py3 pong.py
+```
+
 ###### Issues
 
 Any issues feel free to message me or fix them!
